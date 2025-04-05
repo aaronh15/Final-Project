@@ -1,3 +1,15 @@
-body {
-    
+
+#sheep-list {
+    display: flex;
+    justify-content: space-around;
 }
+
+#wolf-list {
+    display: flex;
+    justify-content: space-around;
+}
+
+.sheep-img {
+    width: 200px;
+}
+

@@ -9,7 +9,30 @@
     justify-content: space-around;
 }
 
-.sheep-img {
+#sheep-img1 {
     width: 200px;
 }
 
+#desc1 {
+    display: none;
+}
+
+#sheep-img1:hover + #desc1{
+    width: 300px;
+    display: block;
+    color: black;
+}
+
+#sheep-img1:hover {
+    width: 300px;
+}
+
+#sheep-img2:hover + #desc2{
+    width: 300px;
+    display: block;
+    color: black;
+}
+
+#sheep-img2:hover {
+    width: 300px;
+}

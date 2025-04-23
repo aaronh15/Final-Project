@@ -9,30 +9,125 @@
     justify-content: space-around;
 }
 
+
 #sheep-img1 {
     width: 200px;
 }
 
-#desc1 {
+#sheep-img4 {
+    width: 220px;
+}
+
+#wolf-img1 {
+    width: 180px;
+}
+
+#wolf-img2 {
+    width: 170px;
+}
+
+#wolf-img3 {
+    width: 170px;
+}
+
+#desc1,
+#desc2, 
+#desc3,
+#desc4,
+#desc5,
+#desc6,
+#desc7,
+#desc8,
+#desc9 {
     display: none;
 }
 
 #sheep-img1:hover + #desc1{
-    width: 300px;
+    width: 250px;
     display: block;
     color: black;
 }
 
 #sheep-img1:hover {
-    width: 300px;
+    width: 250px;
 }
 
 #sheep-img2:hover + #desc2{
-    width: 300px;
+    width: 250px;
     display: block;
     color: black;
 }
 
 #sheep-img2:hover {
-    width: 300px;
+    width: 250px;
+}
+
+#sheep-img3:hover + #desc3{
+    width: 250px;
+    display: block;
+    color: black;
+}
+
+#sheep-img3:hover {
+    width: 250px;
+}
+
+#sheep-img4:hover + #desc4{
+    width: 250px;
+    display: block;
+    color: black;
+}
+
+#sheep-img4:hover {
+    width: 250px;
+}
+
+#sheep-img5:hover + #desc5{
+    width: 250px;
+    display: block;
+    color: black;
+}
+
+#sheep-img5:hover {
+    width: 250px;
+}
+
+#sheep-img6:hover + #desc6{
+    width: 250px;
+    display: block;
+    color: black;
+}
+
+#sheep-img6:hover {
+    width: 250px;
+}
+
+#wolf-img1:hover + #desc7{
+    width: 250px;
+    display: block;
+    color: black;
+}
+
+#wolf-img1:hover {
+    width: 250px;
+}
+
+#wolf-img2:hover + #desc8{
+    width: 250px;
+    display: block;
+    color: black;
+}
+
+#wolf-img2:hover {
+    width: 250px;
+}
+
+#wolf-img3:hover + #desc9{
+    width: 250px;
+    display: block;
+    color: black;
+}
+
+#wolf-img3:hover {
+    width: 250px;
 }

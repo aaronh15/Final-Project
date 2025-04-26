@@ -14,12 +14,28 @@
     width: 200px;
 }
 
+#sheep-img2 {
+    width: 200px;
+}
+
+#sheep-img3 {
+    width: 200px;
+}
+
 #sheep-img4 {
     width: 220px;
 }
 
+#sheep-img5 {
+    width: 200px;
+}
+
+#sheep-img6 {
+    width: 200px;
+}
+
 #wolf-img1 {
-    width: 180px;
+    width: 190px;
 }
 
 #wolf-img2 {
@@ -131,3 +147,11 @@
 #wolf-img3:hover {
     width: 250px;
 }
+
+body {
+    background-image: url("https://static.vecteezy.com/system/resources/previews/008/161/956/non_2x/background-chinese-bamboo-forest-asian-cartoon-vector.jpg");
+}
+
+h1 {
+    color: blue;
+  }
